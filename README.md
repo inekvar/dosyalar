@@ -1,0 +1,2 @@
+# dosyalar
+for blogger 
